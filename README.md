@@ -33,7 +33,7 @@ populations.
 - Package `com.samvedna.app`, version `1.0.0+2005`, Android 7.0+ (minSdk 24)
 - Multilingual: English, தமிழ், हिन्दी, অসমীয়া
 - PIN lock, encrypted local storage, sync queue for later upload
-- One-tap demo mode: **Demo Judge / PIN 1234**, with 6 pre-seeded patients
+- One-tap demo mode: **Demo User / PIN 1234**, with 6 pre-seeded patients
   (healthy / warning / critical)
 
 ## Research foundation
