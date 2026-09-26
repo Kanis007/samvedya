@@ -359,7 +359,7 @@ document.querySelectorAll('.reveal').forEach(el=>io.observe(el));
 const nav=document.getElementById('nav');
 addEventListener('scroll',()=>{nav.classList.toggle('shadow-sm',scrollY>8)});
 // release SHA256 for the published APK
-const sha256='199b668d6c59a2850b3841872a0ccee99a3c719f3479665949cd0178b76c11e0';
+const sha256='70e0929fd8a3db3172bb5e75e2e24e525b1d87b8fb562a6b0642b2818dc6d949';
 document.getElementById('shaBadge').textContent='SHA256: '+sha256.slice(0,12)+'…';
 // smooth close mobile menu on link click
 document.querySelectorAll('#mobileMenu a').forEach(a=>a.addEventListener('click',()=>document.getElementById('mobileMenu').classList.add('hidden')));
